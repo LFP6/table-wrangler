@@ -14,6 +14,7 @@
      * @param options.search - Search query
      * @param options.searchMethod {string|function(o, search)} - Type of search to do (based on type),
      *                                                            or function returning whether o is displayed
+     *                                                            for the given search
      * @param options.multi {boolean} - Whether or not there are multiple values in the cells for the column,
      *                                  triggering the related handling
      ---------------------------
